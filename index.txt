@@ -61,11 +61,6 @@ Tools & Version Control
 Using Git, GitHub, and modern developer tools to manage code and collaborate efficiently.
 
 
-## testimonials
-
-## clients
-
-
 
 # resume
 
