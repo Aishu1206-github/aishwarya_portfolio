@@ -4,9 +4,9 @@ It is a fully responsive personal portfolio website, responsive for all devices,
 
 ## Demo
 
-![Aishu Desktop Demo](./website-demo-image/Desktop view.png "Desktop Demo")
-![Aishu Ipad Demo](./website-demo-image/IPad view.png "Ipad Demo")
-![Aishu Mobile Demo](./website-demo-image/Mobile view.png "Mobile Demo")
+[Aishu Desktop Demo](./website-demo-image/Desktop view.png "Desktop Demo")
+[Aishu Ipad Demo](./website-demo-image/IPad view.png "Ipad Demo")
+[Aishu Mobile Demo](./website-demo-image/Mobile view.png "Mobile Demo")
 
 ## Prerequisites
 
