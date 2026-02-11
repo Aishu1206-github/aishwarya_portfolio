@@ -1,37 +1,73 @@
-# Aishu - Personal portfolio
+# 🌐 Aishwarya Jadhav - Personal Portfolio
 
-It is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Welcome to my personal developer portfolio website.  
+This project showcases my skills, projects, and contact information.
 
-## Demo
+🚀 **Live Website:** [https://aishwarya-portfolio.vercel.app  ](https://aishwarya-portfolio-flax.vercel.app/)
+💻 **GitHub Repository:** [https://github.com/Aishu1206-github/aishwarya_portfolio](https://github.com/Aishu1206-github/aishwarya_portfolio)
 
-[Aishu Desktop Demo](./website-demo-image/Desktop view.png "Desktop Demo")
-[Aishu Ipad Demo](./website-demo-image/IPad view.png "Ipad Demo")
-[Aishu Mobile Demo](./website-demo-image/Mobile view.png "Mobile Demo")
+---
 
-## Prerequisites
+## 📌 About Me
+I am an aspiring software developer with interest in web development and problem solving.  
+I enjoy building responsive websites and learning new technologies.
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript 
+- Vercel (Deployment)  
+- Git & GitHub
 
-## Installing Portfolio
+---
 
-To install **Portfolio**, follow these steps:
+## ✨ Features
+✔ Responsive design (Desktop / Tablet / Mobile)  
+✔ Projects showcase  
+✔ Skills section  
+✔ Contact information  
+✔ Clean and modern UI
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/Aishu1206-github/aishwarya_portfolio.git
-```
+## 📂 Project Structure
+aishwarya_portfolio/
+│── index.html
+│── assets/
+│── css/
+│── js/
+│── website-demo-image/
 
-Windows:
 
-```bash
+---
+
+## 📸 Screenshots
+(Add your images here)
+
+![Desktop View](website-demo-image/Desktop view.png)  
+![Tablet View](website-demo-image/IPad view.png)  
+![Mobile View](website-demo-image/Mobile view.png)
+
+---
+
+## 🚀 How to Run Locally
+1. Clone the repository
 git clone https://github.com/Aishu1206-github/aishwarya_portfolio.git
-```
 
-## Contact
+2. Open `index.html` in browser.
 
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/).
+---
+
+## 📬 Contact
+- Email: aishujadhav5545@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/](https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/) 
+- GitHub: [https://github.com/Aishu1206-github](https://github.com/Aishu1206-github)
+
+---
+
+⭐ If you like this project, feel free to give it a star!
+
 
 
