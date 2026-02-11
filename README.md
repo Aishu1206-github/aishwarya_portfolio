@@ -62,7 +62,7 @@ git clone https://github.com/Aishu1206-github/aishwarya_portfolio.git
 
 ## 📬 Contact
 - Email: aishujadhav5545@gmail.com  
-- LinkedIn: [add-link ](https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/) 
+- LinkedIn: [https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/](https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/) 
 - GitHub: [https://github.com/Aishu1206-github](https://github.com/Aishu1206-github)
 
 ---
